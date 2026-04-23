@@ -13,11 +13,6 @@
    </a>
 </p>
 
-
-## 🚀 LaunchQL is Now Constructive!  
-
-We’re thrilled to share that **LaunchQL** has rebranded as **Constructive**! 🎉  
-
 🔗 **New GitHub Organization:** [**constructive-io**](https://github.com/constructive-io)  
 🌐 **New Website:** [**constructive.io**](https://constructive.io)  
 
